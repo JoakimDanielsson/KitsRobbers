@@ -9,4 +9,4 @@ A recursive way to apply the robber's language to a word many times
 3. Load module kitsRobbers.hs using ```:l kitsRobbers.hs```
 4. Run with ```kitsRobbers <NUMBER_OF_TIMES_TO_RUN> <STRING>```
 
-Example: kitsRobbers 1 kits => kokitotsos
+Example: kitsRobbers 1 "kits" => "kokitotsos"
